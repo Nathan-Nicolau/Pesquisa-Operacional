@@ -1,6 +1,5 @@
 import math
-
-
+#Dijkstra
 class HeapMin:
 
     def __init__(self):

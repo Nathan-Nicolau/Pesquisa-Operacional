@@ -1,6 +1,5 @@
 import random
 import heapq
-
 #prim
 n, m = input().split()
 n = int(n)
@@ -42,7 +41,3 @@ while nEdges < n-1:
 
 print(custoTotal)
 print(arvoreGeradoraMinima)
-
-
-
-
